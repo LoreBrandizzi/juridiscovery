@@ -1,0 +1,56 @@
+group_id,leader,topic,group_size
+1,Competência Juizado Especial,Competência Juizado Especial,6
+1,Competência Juizado Especial,Competência Juizados Especiais,6
+1,Competência Juizado Especial,Legitimidade em Execuções,6
+1,Competência Juizado Especial,Legitimidade Judicial,6
+1,Competência Juizado Especial,Legitimidade no Juizado Especial,6
+1,Competência Juizado Especial,Legitimidade nos Juizados Especiais,6
+2,Enquadramento Judicial,Enquadramento Judicial,4
+2,Enquadramento Judicial,Gratuidade Financeira,4
+2,Enquadramento Judicial,Justiça Gratuita,4
+2,Enquadramento Judicial,Justiça Gratuita para Recursos,4
+3,Aposentadoria Rural,Aposentadoria Rural,3
+3,Aposentadoria Rural,Classificação de Segurados,3
+3,Aposentadoria Rural,Pensão por Morte,3
+4,Benefícios Assistenciais,Benefícios Assistenciais,2
+4,Benefícios Assistenciais,Benefícios para Deficientes,2
+5,Benefícios Previdenciários,Benefícios Previdenciários,2
+5,Benefícios Previdenciários,Salário-Maternidade INSS,2
+6,Cobrança Indevida,Cobrança Indevida,2
+6,Cobrança Indevida,Isenção de Taxas para MEIs,2
+7,Pagamentos de Serviços,Pagamentos de Serviços,2
+7,Pagamentos de Serviços,Problemas Bancários,2
+8,Acidentes de Trânsito,Acidentes de Trânsito,1
+9,Adeção ao Simples Nacional,Adeção ao Simples Nacional,1
+10,Auxílio Emergencial,Auxílio Emergencial,1
+11,Citação Válida,Citação Válida,1
+12,Cobrança de Débitos,Cobrança de Débitos,1
+13,Cobrança de Dívidas Escolares,Cobrança de Dívidas Escolares,1
+14,Cobrança de ICMS DIFAL,Cobrança de ICMS DIFAL,1
+15,Cobrança sem Nota Fiscal,Cobrança sem Nota Fiscal,1
+16,Confusão Patrimonial,Confusão Patrimonial,1
+17,Contribuições e Aposentadoria,Contribuições e Aposentadoria,1
+18,Crimes e Provas,Crimes e Provas,1
+19,Doações Eleitorais,Doações Eleitorais,1
+20,Documentação Judicial,Documentação Judicial,1
+21,Dívida e Conciliação,Dívida e Conciliação,1
+22,Embargos de Declaração,Embargos de Declaração,1
+23,Execução de Títulos,Execução de Títulos,1
+24,Fraude Empresarial,Fraude Empresarial,1
+25,Impenhorabilidade de Bens Profissionais,Impenhorabilidade de Bens Profissionais,1
+26,Impenhorabilidade de Valores,Impenhorabilidade de Valores,1
+27,Irregularidades em Licitações,Irregularidades em Licitações,1
+28,Juros e Cobrança,Juros e Cobrança,1
+29,Liberdade Provisória,Liberdade Provisória,1
+30,Licenciamento MEI,Licenciamento MEI,1
+31,Negativação Indevida,Negativação Indevida,1
+32,Prisão em Processos,Prisão em Processos,1
+33,Problemas com Operadoras de Telefonia,Problemas com Operadoras de Telefonia,1
+34,Problemas com Planos de Saúde,Problemas com Planos de Saúde,1
+35,Recursos Trabalhistas,Recursos Trabalhistas,1
+36,Redução de Alimentos,Redução de Alimentos,1
+37,Redução de Depósito Recursal,Redução de Depósito Recursal,1
+38,Registro Veterinário,Registro Veterinário,1
+39,Seguro-Desemprego e Renda,Seguro-Desemprego e Renda,1
+40,Trabalho Externo em Regime Semiaberto,Trabalho Externo em Regime Semiaberto,1
+41,Vínculo Empregatício,Vínculo Empregatício,1
